@@ -25,6 +25,8 @@ import com.openai.board.service.MemberService;
 @Controller
 public class HomeController {
 	
+	//something change
+	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
 	@Autowired
